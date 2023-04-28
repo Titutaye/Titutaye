@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [https://blog.titutaye.com/](https://blog.titutaye.com/)
 
-- 💬 Ask me about **CNN,RNN,LSTM,Transformer,VAE,GAN,GCN,Diffusion Models etc**
+- 💬 Ask me about **CNN, RNN, LSTM, Transformer, VAE, GAN, GCN, Diffusion Models etc**
 
 - 📫 How to reach me **contact@titutaye.com**
 
 - 📄 Know about Me [https://info.titutaye.com/images/Titu%20Taye%20Resume.pdf](https://info.titutaye.com/images/Titu%20Taye%20Resume.pdf)
 
-- ⚡ Fun fact **I am a day dreamer 😇 !**
+- ⚡ Fun fact **I am a day Dreamer 😇 !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
