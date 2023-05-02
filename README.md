@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Machine Learning and Deep Learning**
 
-- 🌱 I’m currently learning **Machine Learning and Deep Learning**
+- 🌱 I’m currently learning **Transformers**
 
 - 👯 I’m looking to collaborate on **Machine Learning and Deep Learning**
 
@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://blog.titutaye.com/](https://blog.titutaye.com/)
 
-- 💬 Ask me about **CNN, RNN, LSTM, Transformer, VAE, GAN, GCN, Diffusion Models etc**
+- 💬 Ask me about **CNN, RNN, LSTM, Transformers, VAE, GAN, GCN, Diffusion Models etc**
 
 - 📫 How to reach me **contact@titutaye.com**
 
