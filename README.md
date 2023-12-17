@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **CNN, RNN, LSTM, Transformers, VAE, GAN, GCN, Diffusion Models etc**
 
-- 📫 How to reach me **contact@titutaye.com**
+- 📫 How to reach me ****
   
 <h3 align="left">Connect with me:</h3>
 <p align="left">
